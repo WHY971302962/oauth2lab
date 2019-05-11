@@ -35,6 +35,5 @@ oauth2lab
 
 《微服务架构实战160讲》
 
-<img src="image/course_ad.jpg" alt="drawing" style="width: 480;"/>
 
 
